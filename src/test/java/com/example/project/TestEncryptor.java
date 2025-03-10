@@ -4,10 +4,6 @@ import org.junit.jupiter.api.Test;
 
 
 public class TestEncryptor{
-
-
- 
-
     @Test
     public void testDetermineColumns_ExactMultiple() {
         // Test case where message length is an exact multiple of rows
